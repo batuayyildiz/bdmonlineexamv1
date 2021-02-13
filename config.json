@@ -4,6 +4,6 @@
         "dbname": "postgres",
         "user": "batuayyildiz97",
         "password": "Bthn9775/",
-        "ssl": "disable"
+        "ssl": "require"
     }
 }
